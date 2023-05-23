@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_sign_in">Sign in</string>
+    <string name="txt_welcome">"Welcome !"</string>
+    <string name="txt_invalid_username">Not a valid username</string>
+    <string name="txt_invalid_password">Password must be >5 characters</string>
+    <string name="txt_login_failed">"Login failed"</string>
+    <string name="txt_add_story">Add Story</string>
+    <string name="txt_register_and_sharing_your_story">Register Yourself\nAnd Share Your Story</string>
+    <string name="txt_label_name">Name</string>
+    <string name="txt_hint_name">Name...</string>
+    <string name="txt_label_email">Email</string>
+    <string name="txt_label_password">Password</string>
+    <string name="txt_hint_password">Enter Password...</string>
+    <string name="txt_label_password_confirm">Confirm Password</string>
+    <string name="txt_hint_password_confirm">Confirm Password...</string>
+    <string name="txt_label_btn_register">Register</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_sign_in_and_share_your_story">Sign In and\nShare Your Story</string>
+    <string name="txt_label_btn_sign_in">Sign In</string>
+    <string name="txt_register">Registrasi</string>
+    <string name="title_hint_description">Enter Description...</string>
+    <string name="title_label_description">Description</string>
+    <string name="title_label_upload_photo">Upload Photo</string>
+    <string name="txt_images_story">Story Image</string>
+    <string name="txt_label_btn_add_story">Add Story</string>
+    <string name="txt_pick_image">Pick Image</string>
+    <string name="txt_switch_camera">Switch Camera</string>
+    <string name="txt_upload_from">Upload From:</string>
+    <string name="txt_close_dialog">Close dialog</string>
+    <string name="txt_camera">Camera</string>
+    <string name="txt_gallery">Gallery</string>
+    <string name="txt_logout">Logout</string>
+    <string name="title_activity_maps_story">MapsStoryActivity</string>
+</resources>
